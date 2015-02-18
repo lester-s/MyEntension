@@ -8,6 +8,7 @@ namespace MyExtension
 {
     public static class DateHelper
     {
+
         public static int DaysInYear(DateTime date)
         {
             return DateTime.IsLeapYear(date.Year) ? 366 : 365;
