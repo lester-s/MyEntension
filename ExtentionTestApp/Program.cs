@@ -21,6 +21,11 @@ namespace ExtentionTestApp
             Console.WriteLine("helper string: " + DateHelper.DaysInYear("2012"));
             Console.WriteLine("helper string: " + DateHelper.DaysInYear(2015));
             Console.ReadLine();
+            Console.WriteLine("hello");
+            //sdfsdf
+            //coucou
+            //test
+            //hello
         }
     }
 }
