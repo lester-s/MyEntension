@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionTestApp", "..\..\..\GitHub\MyExtension\ExtentionTestApp\ExtentionTestApp.csproj", "{D70BCD86-1F11-4183-9328-42701ED483D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtension", "..\..\..\GitHub\MyExtension\MyExtension\MyExtension.csproj", "{230AD89F-0BBD-4E12-8B79-47AE3B846564}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtension", "MyExtension\MyExtension.csproj", "{230AD89F-0BBD-4E12-8B79-47AE3B846564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
