@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsAndHelpers", "ExtensionsAndHelpers\ExtensionsAndHelpers.csproj", "{C0B25BB8-61EB-4BCA-A8C3-488FDA59677A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionTestApp", "..\..\..\GitHub\MyExtension\ExtentionTestApp\ExtentionTestApp.csproj", "{D70BCD86-1F11-4183-9328-42701ED483D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtension", "..\..\..\GitHub\MyExtension\MyExtension\MyExtension.csproj", "{230AD89F-0BBD-4E12-8B79-47AE3B846564}"
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0B25BB8-61EB-4BCA-A8C3-488FDA59677A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0B25BB8-61EB-4BCA-A8C3-488FDA59677A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0B25BB8-61EB-4BCA-A8C3-488FDA59677A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0B25BB8-61EB-4BCA-A8C3-488FDA59677A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D70BCD86-1F11-4183-9328-42701ED483D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D70BCD86-1F11-4183-9328-42701ED483D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D70BCD86-1F11-4183-9328-42701ED483D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
