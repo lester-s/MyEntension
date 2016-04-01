@@ -8,11 +8,11 @@ namespace MyExtension.Extension
 {
     public static class ObjectExtension
     {
-        public static Array ToArray(this object obj)
+        public static Array ToArray(this object j)
         {
-            Type myType = obj.GetType();
+            Type myType = j.GetType();
             Array array = Array.CreateInstance(myType, 1);
-            array.SetValue(obj, 0);
+            array.SetValue(j, 0);
             return array;
         }
     }
